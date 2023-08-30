@@ -19,7 +19,7 @@ public class L1592 {
             avgSpaces = numSpaces; // if numWords == 1 , dividing numSpaces with 1 - 1 i.e. 0 will give error
         } else {
             avgSpaces = numSpaces / (numWords - 1);
-        }
+        } 
         
         
         int i = 0;
